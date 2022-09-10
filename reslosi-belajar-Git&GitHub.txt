@@ -3,4 +3,5 @@ melihat Playlist GIT & GITHUb dari chanel Youtube Web Programing UNPAS
   *pengertian GIT
   *istilah-istilah GIT
 2. Bekerja dengan GitHUb
+ *Ini adalah pelajaran dari playlist kedua GIT & GITHUB 
 3. GitHub: Branch 
