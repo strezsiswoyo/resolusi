@@ -2,6 +2,10 @@ melihat Playlist GIT & GITHUb dari chanel Youtube Web Programing UNPAS
 1. Apa itu GIT dan GITHUB?
   *pengertian GIT
   *istilah-istilah GIT
+  
+  #ini dibuat di fitur 1 oleh A
 2. Bekerja dengan GitHUb
  *Ini adalah pelajaran dari playlist kedua GIT & GITHUB 
+ 
+ # ini dalah fitur 1 oleh A
 3. GitHub: Branch 
