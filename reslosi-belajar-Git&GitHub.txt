@@ -4,8 +4,12 @@ melihat Playlist GIT & GITHUb dari chanel Youtube Web Programing UNPAS
   *istilah-istilah GIT
   
   ^fitur 2 oleh si B
+  
 2. Bekerja dengan GitHUb
  *Ini adalah pelajaran dari playlist kedua GIT & GITHUB 
  
  ^Fitur 2 oleh si B
+
 3. GitHub: Branch 
+
+ #Ini adalah fitur 1 oleh A
